@@ -1,3 +1,7 @@
+## 1.7.1
+
+- Add Jupyter extension to extension pack manifest.
+
 ## 1.7.0
 
 - Add Python Indent
